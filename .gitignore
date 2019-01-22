@@ -1,0 +1,23 @@
+# Build artifacts
+_build/
+*.agdai
+*.o
+*.a
+*.so
+*.dylib
+build/
+dist/
+
+# C outputs
+c_fastpath/bin/
+c_fastpath/build/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Output meshes
+output/
+*.stl
+*.obj

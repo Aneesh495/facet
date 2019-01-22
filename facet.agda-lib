@@ -1,0 +1,4 @@
+name: facet
+include: src
+depend:
+  standard-library
